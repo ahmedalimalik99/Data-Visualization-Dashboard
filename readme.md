@@ -27,7 +27,7 @@ Follow these steps to run the project locally 👇
 
 ### 1️⃣ Clone the repository
 ```
-git clone https://github.com/your-username/data-visualization-dashboard.git
+git clone https://github.com/ahmedalimalik99/Data-Visualization-Dashboard.git
 ```
 
 ### 2️⃣ Navigate into the project folder
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ### 6️⃣ ▶️ Run the Application
 Once dependencies are installed, run the Streamlit app:
 ```
-streamlit run app.py
+streamlit run data_visul_dash.py
 ```
 Then open the local URL shown in your terminal — usually:
 ```
